@@ -1,0 +1,30 @@
+{
+  "name": "www.texjp.org",
+  "authors": [
+    "Japanese TeX Development Community"
+  ],
+  "description": "Japanese TeX Development Community Official Web Site",
+  "main": "",
+  "keywords": [
+    "TeX",
+    "LaTeX",
+    "pTeX",
+    "pLaTeX",
+    "upTeX",
+    "upLaTeX",
+    "TeX",
+    "Live"
+  ],
+  "license": "MIT",
+  "homepage": "https://texjp.org/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Honoka": "honoka#^3.3.7"
+  }
+}
